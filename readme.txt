@@ -2,12 +2,12 @@
 Contributors: Adam Sayler, Impression Engineers
 Plugin homepage: http://www.impressionengineers.com/wordpress/easy-google-optimizer-plugin/
 Donate link: http://www.impressionengineers.com/wordpress/easy-google-optimizer-plugin/
-Tags: stable, google optimzer
+Tags: stable, google optimizer, google, plugin
 Requires at least: 2.0
 Tested up to: 2.6.2
 Stable tag: 1.0
 
-A plugin for integrating Google Website Optimizer into blog posts and pages
+A plugin to easily and quickly integrate the Google Website Optimizer system in your Wordpress site.
 
 == Description ==
 
