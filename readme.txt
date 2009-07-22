@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Easy Google Optimizer Plugin ===
 Contributors: Adam Sayler, Impression Engineers
 Plugin homepage: http://www.impressionengineers.com/wordpress/easy-google-optimizer-plugin/
 Donate link: http://www.impressionengineers.com/wordpress/easy-google-optimizer-plugin/
