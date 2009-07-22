@@ -1,7 +1,6 @@
 === Easy Google Optimizer Plugin ===
 Contributors: Adam Sayler, Impression Engineers
 Plugin homepage: http://www.impressionengineers.com/wordpress/easy-google-optimizer-plugin/
-Donate link: http://www.impressionengineers.com/wordpress/easy-google-optimizer-plugin/
 Tags: stable, google optimizer, google, plugin
 Requires at least: 2.0
 Tested up to: 2.8.2
