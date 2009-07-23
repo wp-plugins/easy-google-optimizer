@@ -1,10 +1,9 @@
-=== Plugin Name ===
+=== Easy Google Optimizer Plugin ===
 Contributors: Adam Sayler, Impression Engineers
 Plugin homepage: http://www.impressionengineers.com/wordpress/easy-google-optimizer-plugin/
-Donate link: http://www.impressionengineers.com/wordpress/easy-google-optimizer-plugin/
 Tags: stable, google optimizer, google, plugin
 Requires at least: 2.0
-Tested up to: 2.6.2
+Tested up to: 2.8.2
 Stable tag: 1.0
 
 A plugin to easily and quickly integrate the Google Website Optimizer system in your Wordpress site.
@@ -12,8 +11,6 @@ A plugin to easily and quickly integrate the Google Website Optimizer system in 
 == Description ==
 
 A plugin to easily and quickly integrate the Google Website Optimizer system into your blog posts and pages. Please read the setup procedure for more info.
-
-http://impressionengineers.com/wordpress/easy-google-optimizer-plugin/
 
 Note: the system will currently only work with one Google Optimizer test per site.
 
@@ -25,4 +22,14 @@ Note: the system will currently only work with one Google Optimizer test per sit
    4. Add the tracking code from Google into your test pages from the Easy Google Optimizer admin menu.  This can me found in the Manage > Easy Google Optimizer menu item (as of Wordpress 2.6 this is now under the Settings menu)
 
 == Frequently Asked Questions ==
+No FAQs yet. For answers to questions please the comments on the following plugin post
 
+http://impressionengineers.com/wordpress/easy-google-optimizer-plugin/
+
+== Screenshots ==
+1. A view of the main administration page
+
+== Changelog ==
+
+= 1.0 =
+* Initial public release 
