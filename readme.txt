@@ -3,10 +3,12 @@ Contributors: Adam Sayler from Impression Engineers
 Plugin homepage: http://www.impressionengineers.com/wordpress/easy-google-optimizer-plugin/
 Tags: stable, google optimizer, google, plugin
 Requires at least: 2.0
-Tested up to: 2.8.2
-Stable tag: 1.0
+Tested up to: 2.9.2
+Stable tag: 1.0.1
 
 A plugin to easily and quickly integrate the Google Website Optimizer system in your Wordpress site.
+
+v1.0.1 fixed ZIP file compression to install properly while uploading directly to system and tested to 2.9.2
 
 == Description ==
 
